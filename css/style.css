@@ -1,6 +1,7 @@
-.body{
+body{
     background-color: aqua;
 }
-.h1{
-    background-color: blue;
-}
+.header
+{ 
+    background-color: aquamarine;
+    color: blue;}
